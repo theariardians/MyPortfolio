@@ -262,7 +262,6 @@ button {
 }
 
 .bg-img {
-    background-image: url('./assets/img/cover/uiux.png');
     background-size: cover;
     background-repeat: no-repeat;
 }
