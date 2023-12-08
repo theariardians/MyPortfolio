@@ -247,6 +247,13 @@ button {
     border: none;
     background: 0 0
 }
+.header {
+    position: relative; 
+}
+
+.parallaxie {
+    background-attachment: fixed; 
+}
 
 .bg-fixed {
     background-attachment: fixed;
