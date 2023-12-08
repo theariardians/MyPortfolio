@@ -247,13 +247,6 @@ button {
     border: none;
     background: 0 0
 }
-.header {
-    position: relative; 
-}
-
-.parallaxie {
-    background-attachment: fixed; 
-}
 
 .bg-fixed {
     background-attachment: fixed;
@@ -271,6 +264,9 @@ button {
 .bg-img {
     background-size: cover;
     background-repeat: no-repeat;
+}
+.parallaxie {
+    background-attachment: fixed; 
 }
 
 .js .animate-box {
@@ -602,6 +598,7 @@ button:not(:disabled) {
 /* ======= Header style ======= */
 
 .header {
+    position: relative; 
     min-height: 100vh;
     overflow: hidden;
     background-color: #fff;
